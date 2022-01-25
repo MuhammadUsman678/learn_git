@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <link rel="stylesheet" href="styles/carousal.css" async>
+    <head>
+        <link rel="stylesheet" href="styles/carousal.css" async>
+        <link rel="stylesheet" href="styles/login.css">
+    </head>
     <body>
         Hello World!
     </body>
